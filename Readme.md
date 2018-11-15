@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/BindNumericChartClientToItemList/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/BindNumericChartClientToItemList/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/BindNumericChartClientToItemList/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/BindNumericChartClientToItemList/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to bind a numeric chart range control client to a list of custom objects
 
 
